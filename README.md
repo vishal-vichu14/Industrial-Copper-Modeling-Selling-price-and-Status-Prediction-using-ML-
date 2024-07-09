@@ -64,21 +64,22 @@ stream.py: Python script containing the Streamlit application code (stream.py).
 
 ## Models Trained
 
-Regression Models:
+### Regression Models:
 
-Random Forest Regression
-Gradient Boosting Regression
-Linear Regression
-Decision Tree Regressor
+- Random Forest Regression
+- Gradient Boosting Regression
+- Linear Regression
+- Decision Tree Regressor
 
-Classification Models:
+### Classification Models:
 
-Extra Trees Classifier
-Random Forest Classifier
-KNeighbors Classifier
-Gradient Boosting Classifier
-Logistic Regression
-Decision Tree Classifier
+- Extra Trees Classifier
+- Random Forest Classifier
+- KNeighbors Classifier
+- Gradient Boosting Classifier
+- Logistic Regression
+- Decision Tree Classifier
+
 
 ## Saving Model
 
