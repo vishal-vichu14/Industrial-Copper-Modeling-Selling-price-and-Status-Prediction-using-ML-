@@ -95,10 +95,10 @@ To run the Streamlit app:
 
 ## Results
 
-Regression Results:
+### Regression Results:
 
 Random Forest Regression showed the best performance in predicting the selling price based on evaluation metrics like RMSE and R².
 
-Classification Results:
+### Classification Results:
 
 Extra Trees Classifier achieved high accuracy in predicting transaction status (Won or Lost).
