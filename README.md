@@ -23,6 +23,7 @@ The models were developed using Python, and the Streamlit framework was used to 
 To run this project locally and use the Streamlit app, follow these steps:
 Libraries to import and install:
 
+```python
 import joblib
 from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
@@ -41,6 +42,8 @@ from sklearn.model_selection import GridSearchCV, train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler, OrdinalEncoder, StandardScaler
 from sklearn.tree import DecisionTreeClassifier, DecisionTreeRegressor
+```
+
 
 ## Usage
 Data Preprocessing: The dataset is cleaned, preprocessed, and used to train Machine Learning models.
