@@ -46,14 +46,20 @@ from sklearn.tree import DecisionTreeClassifier, DecisionTreeRegressor
 
 
 ## Usage
-Data Preprocessing: The dataset is cleaned, preprocessed, and used to train Machine Learning models.
+Data Preprocessing: 
+The dataset is cleaned, preprocessed, and used to train Machine Learning models.
+
 Model Training: Models for predicting selling price (regression) and status (classification) are trained using algorithms such as Random Forest, Gradient Boosting, and others.
+
 Streamlit Application: Use the Streamlit web application to interactively make predictions based on user inputs.
+
 Model Evaluation: Model performance metrics are evaluated and displayed in the application.
 
 ## File Descriptions
 industrial_copper_modeling.ipynb: Colab notebook containing the entire project code, including model training and evaluation.
+
 Extra_trees.pkl: Serialized Extra Trees classification model.
+
 stream.py: Python script containing the Streamlit application code (stream.py).
 
 ## Models Trained
