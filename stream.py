@@ -3,7 +3,7 @@ import numpy as np
 import joblib
 import pandas as pd
 from datetime import date
-from streamlit_option_menu import option_menu  # Assuming this is a custom module
+from streamlit_option_menu import option_menu 
 
 # Constants and dictionaries
 COUNTRY_VALUES = [25.0, 26.0, 27.0, 28.0, 30.0, 32.0, 38.0, 39.0, 40.0, 77.0,
